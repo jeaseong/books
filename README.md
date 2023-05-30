@@ -12,4 +12,6 @@
 
 ### ALGORITHM
 
+- [DP](/algorithms/dp/)
+
 ### LIBRARY
